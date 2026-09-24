@@ -1,4 +1,5 @@
-from app import add, greet
+from app import add, greet, multiply
+
 
 
 def test_add():
