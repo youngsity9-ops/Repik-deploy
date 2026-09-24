@@ -10,7 +10,7 @@ def greet(name):
 
 def multiply(a, b):
     """Умножает два числа и возвращает результат."""
-    return a - b  # bug: должно быть *
+    return a * b  # бага нет
 
 
 
